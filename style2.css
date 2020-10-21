@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(63, 11, 11, 06)
+}
+
+h1 {
+    font-family: helvetica;
+    font-weight: 900;
+    color: rgb(200,200,50);
+}
+img {
+    width: 100%;
+}
+
+.element {
+  background: rgb(75, 45, 7, .7);
+  text-align: center;
+  padding: 25px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.container {
+    position: relative;
+}
+
+#first {
+  font-size: x-large;
+  border: 5px solid rgb(200, 50, 192);
+  margin: 10px 20%;
+  position: relative;
+  left: -80px;
+
+}
+
+#second {
+  font-size: large;
+  border: 5px solid rgb(70, 14, 67);
+  margin: 10px 30%;
+  position: relative;
+  left: 110px;
+}
+
+#third {
+  font-size: xx-large;
+  border: 5px solid rgb(70, 14, 17);
+  margin: 8px 15%;
+}
